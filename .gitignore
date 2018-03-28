@@ -1,13 +1,8 @@
 # Directories
 .cache
-.nyc_output
-coverage
 node_modules
-spec/www
 umd
 
 # Files
-spec/my-manifest.json
-spec/static-assets.json
 npm-debug.log
 *~
